@@ -1,16 +1,16 @@
 {
-  "name": "parse-dashboard",
-  "version": "4.2.0-alpha.17",
+  "name": "@gemforce/gemforce-dashboard",
+  "version": "4.2.0-alpha.19",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ParsePlatform/parse-dashboard"
+    "url": "https://github.com/nftgem/gemforce-dashboard"
   },
   "description": "The Parse Dashboard",
   "parseDashboardFeatures": [
     "Data Browser",
     "Cloud Code Viewer",
     "Cloud Code Jobs Viewer and Runner",
-    "Parse Config",
+    "Gemforce Config",
     "REST API Console",
     "GraphQL API Console",
     "JS Custom Query Console",
@@ -22,14 +22,14 @@
     "Relation Editor"
   ],
   "keywords": [
-    "parse",
+    "gemforce",
     "dashboard"
   ],
-  "homepage": "https://github.com/ParsePlatform/parse-dashboard",
-  "bugs": "https://github.com/ParsePlatform/parse-dashboard/issues",
+  "homepage": "https://github.com/nftgem/gemforce-dashboard",
+  "bugs": "https://github.com/nftgem/gemforce-dashboard/issues",
   "license": "SEE LICENSE IN LICENSE",
   "files": [
-    "Parse-Dashboard",
+    "Gemforce-Dashboard",
     "bin",
     "README.md",
     "LICENSE"
